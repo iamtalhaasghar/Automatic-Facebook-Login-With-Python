@@ -149,6 +149,18 @@ Key dependencies:
 
 ---
 
+## Using this with Proxy
+
+For a professional approach to using proxies in your automation processes, I recommend NodeMaven's Residential Proxies. Having tried numerous proxy providers, I find NodeMaven excels in simplicity and usefulness.
+
+Here's how to get started:
+
+1. Register on the NodeMaven platform using this [link](https://go.nodemaven.com/rohandas).
+2. Select the trial option on your personal account.
+3. Use 500FREE at checkout to receive +2GB of free proxy when purchasing any package (except trial). Try NodeMaven now - [NodeMaven Proxies](https://go.nodemaven.com/rohandas).
+
+---
+
 ## Notes
 
 - **Ethical Use**: This tool is for educational purposes only. Automated account creation may violate Facebook's Terms of Service.
